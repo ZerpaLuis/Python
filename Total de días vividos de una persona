@@ -1,0 +1,3 @@
+edad=int(20)
+total_dias=edad*365
+print(total_dias)
