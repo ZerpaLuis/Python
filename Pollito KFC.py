@@ -19,4 +19,8 @@ else:
     Porcentaje_Descuento=0.02
 Total_Descuento=Precio_total-(Precio_total*Porcentaje_Descuento)
 Total_Pagar=Total_Descuento+(Total_Descuento*iva)
-print(f"Toral al pagar{Total_Pagar:.2f}")             
+print(f"Toral al pagar{Total_Pagar:.2f}")     
+
+#APRENDAN A COPIARSE
+# SEAN UN POCO MAS PILAS
+# INSERTAR EMOJI DE DECEPCIÓN ACA
